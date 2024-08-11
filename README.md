@@ -1,6 +1,6 @@
 # 介绍 InternLM_based_healthcare_helper
 基于[InternLM](https://github.com/InternLM/Tutorial)的慢性病管理及康复咨询助手
-
+https://github.com/InternLM/Tutorial
 
 本项目是一个基于慢性病管理及康复咨询数据构建的大模型助手，为患者在健康咨询、疾病诊断、治疗方案制定以及医疗资源优化配置等方面提供咨询帮助
 
